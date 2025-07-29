@@ -34,28 +34,40 @@ La página web de Forma-TIC ha sido diseñada para ser intuitiva y ofrecer una e
 
 🛠️ Tecnologías Utilizadas
 Este proyecto front-end ha sido desarrollado utilizando las siguientes tecnologías estándar de la web:
+
 •	HTML5: Para estructurar todo el contenido de la página web, desde el encabezado hasta el pie de página, incluyendo secciones de cursos, galería y contacto.
+
 •	CSS3: Para dar estilo a todos los elementos HTML, incluyendo la tipografía (Google Fonts), los colores, el layout (flexbox, diseño responsivo), y los efectos visuales. Se utiliza un diseño responsivo con media queries para adaptar la visualización a distintos tamaños de pantalla.
-•	JavaScript: Para añadir interactividad a la página. Esto incluye la gestión de eventos de clic en los botones de navegación (tanto del menú superior como de las categorías de cursos) para mostrar u ocultar secciones y ajustar la opacidad de las tarjetas de cursos. También gestiona el botón "Volver Arriba".
+
+•	JavaScript: Para añadir interactividad a la página. Esto incluye la gestión de eventos de clic en los botones de navegación (tanto del menú superior como de las categorías de cursos) para mostrar u ocultar secciones y ajustar la opacidad de las tarjetas de cursos.
+
 •	Font Awesome: Utilizado para los iconos vectoriales que enriquecen la interfaz de usuario (teléfono, correo, ubicación, redes sociales, calendario, etc.).
+
 •	Google Fonts: Para las fuentes utilizadas en el diseño, como "Oswald" y "Lato".
 
 🚀 Instalación y Visualización Local
+
 Para ver y ejecutar la página web de Forma-TIC en tu entorno local, sigue estos sencillos pasos:
+
 1.	Clona el repositorio:
 
         git clone https://github.com/RaulPW/Forma-TIC.git
    
 2.	Abre el archivo index.html: Simplemente navega hasta la carpeta Forma-TIC en tu sistema de archivos y haz doble clic en el archivo index.html. Se abrirá automáticamente en tu navegador web predeterminado.
+3.	
 Al ser un proyecto exclusivamente de front-end (HTML, CSS y JavaScript), no requiere la instalación de dependencias adicionales, servidores locales o configuraciones complejas.
 
 💡 Uso
 Una vez que la página esté abierta en tu navegador, podrás:
+
 •	Navegar por las diferentes secciones utilizando el menú superior.
+
 •	Explorar el catálogo de cursos haciendo clic en los botones de categoría (Primaria, ESO, Bachiller, CFGM, CFGS) para ver los cursos específicos de cada área.
-•	Visualizar la galería de imágenes y leer las entradas del blog.
-•	Utilizar el formulario de contacto para enviar mensajes al centro.
+
+•	Visualizar la galería de imágenes.
+
 •	Hacer clic en los iconos de redes sociales para visitar nuestros perfiles.
+
 •	Usar el botón "Volver Arriba" para regresar rápidamente al inicio de la página.
 
 🤝 Contribución
