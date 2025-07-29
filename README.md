@@ -51,7 +51,7 @@ Para ver y ejecutar la página web de Forma-TIC en tu entorno local, sigue estos
 
 1.	Clona el repositorio:
 
-        git clone https://github.com/RaulPW/Forma-TIC.git
+        git clone https://github.com/rdelgadodev/Forma-TIC.git
    
 2.	Abre el archivo index.html: Simplemente navega hasta la carpeta Forma-TIC en tu sistema de archivos y haz doble clic en el archivo index.html. Se abrirá automáticamente en tu navegador web predeterminado.
 3.	
